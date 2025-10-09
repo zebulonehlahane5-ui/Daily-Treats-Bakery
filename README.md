@@ -112,21 +112,11 @@ Polished layout spacing and alignment.
 
 Tested site on different screen sizes for responsiveness.
 references 
-W3Schools – HTML, CSS, and JavaScript tutorials
+W3Schools. (2024) HTML, CSS, and JavaScript Tutorials. [Online]. Available at: https://www.w3schools.com/ (Accessed: 5 October 2025).
 
-MDN Web Docs – Technical references for web standards
+Google. (2023) UX Design Guidelines. [Online]. Available at: https://design.google/ (Accessed: 4 October 2025).
 
-Google Fonts – Playfair Display and Open Sans font usage
+Statista. (2023) E-commerce Market in South Africa. [Online]. Available at: https://www.statista.com/ (Accessed: 4 October 2025
 
-Unsplash – Free high-quality images for bakery backgrounds
 
-Color Hunt – Pastel color palettes for brand identity
-
-Market Research:
-
-Local bakery websites (Johannesburg region)
-
-South African online retail and food e-commerce trends (2024–2025)
-
-SEO & digital marketing best practices for small businesses
 
