@@ -111,3 +111,22 @@ Enhanced readability with typography choices (Playfair Display, Open Sans).
 Polished layout spacing and alignment.
 
 Tested site on different screen sizes for responsiveness.
+references 
+W3Schools – HTML, CSS, and JavaScript tutorials
+
+MDN Web Docs – Technical references for web standards
+
+Google Fonts – Playfair Display and Open Sans font usage
+
+Unsplash – Free high-quality images for bakery backgrounds
+
+Color Hunt – Pastel color palettes for brand identity
+
+Market Research:
+
+Local bakery websites (Johannesburg region)
+
+South African online retail and food e-commerce trends (2024–2025)
+
+SEO & digital marketing best practices for small businesses
+
