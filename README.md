@@ -145,7 +145,8 @@ W3Schools. (2024) HTML, CSS, and JavaScript Tutorials. [Online]. Available at: h
 
 Google. (2023) UX Design Guidelines. [Online]. Available at: https://design.google/ (Accessed: 4 October 2025).
 
-Statista. (2023) E-commerce Market in South Africa. [Online]. Available at: https://www.statista.com/ (Accessed: 4 October 2025
+Statista. (2023) E-commerce Market in South Africa. [Online]. Available at: https://www.statista.com/ (Accessed: 4 October 2025)
+unsplash (2023)   [Online]. Available at  https://www.unsplash.com/ (Accessed: 28 octorber 2025)
 
 
 
