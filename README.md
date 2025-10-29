@@ -111,34 +111,28 @@ Enhanced readability with typography choices (Playfair Display, Open Sans).
 Polished layout spacing and alignment.
 
 Tested site on different screen sizes for responsiveness.
- * File: script.js
- * Project: Daily Treats Bakery Website
- * Author: Daily Treats Bakery Web Team
- * Version: 1.4
- * Last Updated: 2025-10-28
- * ----------------------------------------------------
- * 🧁 CHANGELOG
- * ----------------------------------------------------
- * v1.0 – Initial Setup (2025-10-25)
- *   - Base JavaScript file created
- *   - DOM loaded event added
- * 
- * v1.1 – Navigation & Smooth Scrolling (2025-10-26)
- *   - Added current page highlighting in nav menu
- *   - Implemented smooth scrolling for anchor links
- * 
- * v1.2 – Form Validation (2025-10-27)
- *   - Added enquiry/contact form validation
- *   - Checks empty fields and valid email format
- * 
- * v1.3 – Interactivity (2025-10-27)
- *   - Added hover animation for sections, header, footer
- *   - Alert confirmation for form submissions
- * 
- * v1.4 – Final Refinements (2025-10-28)
- *   - Added floating “Back to Top” button
- *   - Enhanced code readability and comments
- *   - Improved smooth transition effects
+  File: script.js
+ Project: Daily Treats Bakery Website
+  Author: Daily Treats Bakery Web Team
+Version: 1.4
+Last Updated: 2025-10-28
+🧁 CHANGELOG
+  v1.0 – Initial Setup (2025-10-25)
+Base JavaScript file created
+DOM loaded event added
+v1.1 – Navigation & Smooth Scrolling (2025-10-26)
+ Added current page highlighting in nav menu
+ Implemented smooth scrolling for anchor links
+ v1.2 – Form Validation (2025-10-27)
+Added enquiry/contact form validation
+ Checks empty fields and valid email format
+v1.3 – Interactivity (2025-10-27)
+   Added hover animation for sections, header, footer
+Alert confirmation for form submissions
+ v1.4 – Final Refinements (2025-10-28)
+   Added floating “Back to Top” button
+ Enhanced code readability and comments
+Improved smooth transition effects
 
 References 
 W3Schools. (2024) HTML, CSS, and JavaScript Tutorials. [Online]. Available at: https://www.w3schools.com/ (Accessed: 5 October 2025).
